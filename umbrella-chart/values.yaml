@@ -1,0 +1,20 @@
+favorite: 
+  drink: coffee 
+  food: pizza 
+pizzaToppings: 
+  - mushrooms 
+  - cheese 
+  - peppers 
+  - onions 
+ 
+ 
+mysubchart01: 
+  dessert: ice cream for sub 1 
+
+mysubchart02:
+  dessert: ice cream for sub 2 
+ 
+global: 
+  salad: caesar 
+
+
